@@ -1,5 +1,11 @@
 site_name: My Docs
 
+nav:
+  - Home: index.md
+  - Aulas:
+    - Aula 1: aulas/aula1.md
+    - Aula 2: aulas/aula2.md
+
 theme:
   name: material
   features:
@@ -15,6 +21,19 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-nav:
-  - Home: README.md
-  - Aula 1: aula1.md
+  language: pt-BR
+  # favicom:
+  # logo:
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/globe-light
+        name: Dark mode
+      primary: grey
+      accent: grey
+    - scheme: slate
+      toggle:
+        icon: material/globe-light-outline
+        name: Light mode
+      primary: grey
+      accent: purplue
