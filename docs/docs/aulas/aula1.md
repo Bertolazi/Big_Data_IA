@@ -2,7 +2,7 @@
 
 ## O que é Big Data?
 
-O conceito de Big Data é frquentemente definido pela capacidade que nós temos de lidar com o que chamamos de 5 V's. Os 5 V's são na verdade: Volume, velocidade, variedade, veracidade e valor. Vamos entender melhor o que siginifica cada um desses V's. 
+Big Data refere-se a conjuntos de dados extremamente grandes e complexos que não podem ser analizados de forma eficienet pelos métodos tradicionais de gerenciamento de dados, porém o conceito de Big Data é frquentemente definido pela capacidade que nós temos de lidar com o que chamamos de 5 V's. Os 5 V's são na verdade: Volume, velocidade, variedade, veracidade e valor. Vamos entender melhor o que siginifica cada um desses V's. 
 <br></br>
 
 - **O volume** refere-se à quantidade gigantesca de dados gerados e armazenados
@@ -63,5 +63,20 @@ O conceito de Big Data é frquentemente definido pela capacidade que nós temos 
 
 - **Veracidade**: Garantir que os dados sejam de qualidade, livres de inconsistências ou vieses, para que as análises sejam confiáveis;
 
-- **Valor**: Extrair insights úteis dos dados, evitando o acúmulo de dados irrelevantes ou sem propósito.
+- **Valor**: Extrair insights úteis dos dados, evitando o acúmulo de dados irrelevantes ou sem propósito. 
 
+## Visualização dos dados
+
+Como foi falado anteriormente no conceito de Big Data, o volume de dados é gigantesco, imagine por exemplo olhar uma tabela de excel, com muitas linhas e colunas preenchidas, a visualização e análise ficariam perto do impossível, para isso temos algumas ferramentas para ajudar na visualização desses dados, temos como algusn exemplos:
+
+- **Tableau**: Oferece uma interface intuitiva para criar visualizações interativas e dashboards;
+
+- **Power BI**: Ferramenta da Microssoft que integra bem com outras ferramentas da empresa;
+
+- **D3.js**: Biblioteca do JavaScript para criar visualizações web e interativas;
+
+- **Python (Matplotlib, Seaborn)**: Bibliotecas poderosas para criar gráficos estáticos e interativos;
+
+- **R (ggplot2)**: Ofererce uma gramática de gráficos para criar visualizações de gráficos estáticos e complexos;
+
+A escolha da ferramenta depende das necessidadesdo projeto ao qual você está inserido, a complexidade dos dados que estão sendo tratados e o público alvo.
