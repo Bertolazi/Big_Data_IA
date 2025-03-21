@@ -55,28 +55,28 @@ Big Data refere-se a conjuntos de dados extremamente grandes e complexos que nã
 
 ## Desafios
 
-- **Volume**: Armazenar e gerenciar dados em escalas que vão de terabytes (TB) a petabytes (PB) e além;
+- **Volume:** Armazenar e gerenciar dados em escalas que vão de terabytes (TB) a petabytes (PB) e além;
 
-- **Velocidade**: Gerenciar fluxos de dados em tempo real ou quase em tempo real para obter insights imediatos;
+- **Velocidade:** Gerenciar fluxos de dados em tempo real ou quase em tempo real para obter insights imediatos;
 
-- **Variedade**: Combinar e analisar diferentes dormatos de dados para extrair valor;
+- **Variedade:** Combinar e analisar diferentes dormatos de dados para extrair valor;
 
-- **Veracidade**: Garantir que os dados sejam de qualidade, livres de inconsistências ou vieses, para que as análises sejam confiáveis;
+- **Veracidade:** Garantir que os dados sejam de qualidade, livres de inconsistências ou vieses, para que as análises sejam confiáveis;
 
-- **Valor**: Extrair insights úteis dos dados, evitando o acúmulo de dados irrelevantes ou sem propósito. 
+- **Valor:** Extrair insights úteis dos dados, evitando o acúmulo de dados irrelevantes ou sem propósito. 
 
 ## Visualização dos dados
 
 Como foi falado anteriormente no conceito de Big Data, o volume de dados é gigantesco, imagine por exemplo olhar uma tabela de excel, com muitas linhas e colunas preenchidas, a visualização e análise ficariam perto do impossível, para isso temos algumas ferramentas para ajudar na visualização desses dados, temos como algusn exemplos:
 
-- **Tableau**: Oferece uma interface intuitiva para criar visualizações interativas e dashboards;
+- **Tableau:** Oferece uma interface intuitiva para criar visualizações interativas e dashboards;
 
-- **Power BI**: Ferramenta da Microssoft que integra bem com outras ferramentas da empresa;
+- **Power BI:** Ferramenta da Microssoft que integra bem com outras ferramentas da empresa;
 
-- **D3.js**: Biblioteca do JavaScript para criar visualizações web e interativas;
+- **D3.js:** Biblioteca do JavaScript para criar visualizações web e interativas;
 
-- **Python (Matplotlib, Seaborn)**: Bibliotecas poderosas para criar gráficos estáticos e interativos;
+- **Python (Matplotlib, Seaborn):** Bibliotecas poderosas para criar gráficos estáticos e interativos;
 
-- **R (ggplot2)**: Ofererce uma gramática de gráficos para criar visualizações de gráficos estáticos e complexos;
+- **R (ggplot2):** Ofererce uma gramática de gráficos para criar visualizações de gráficos estáticos e complexos;
 
 A escolha da ferramenta depende das necessidadesdo projeto ao qual você está inserido, a complexidade dos dados que estão sendo tratados e o público alvo.
